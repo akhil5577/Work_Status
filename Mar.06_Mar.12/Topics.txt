@@ -1,0 +1,36 @@
+Test NG topics :
+
+Coding Topics:
+--------------
+
+* Configure testng in eclipse
+* create methods with different annonations like
+ 	* beforeclass,
+	* beforetest,
+	* test,
+	* dataprovider,
+	* afterclass,
+	* aftertest, 
+	* beforesuite,
+	* aftersuite,
+	* parameters
+* Include class for reading data from excel file under proper package
+
+	* data driven testing 
+	* keyword driven testing
+	* hybrid driven testing
+* Include class for reading data from database table file under proper package
+
+* Configure testng.xml for creating test suites, specifying test classes, paramrters,
+
+how to use include, exclude methods, parallel atrubute
+
+testng reports generation
+
+using Listeners for report generation (itestlistener, isuitelistener)
+
+
+Theory topics
+---------------------
+
+Please find the questions and answers in attached word document.
