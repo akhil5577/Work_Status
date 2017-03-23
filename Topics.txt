@@ -1,0 +1,21 @@
+
+Coding Topics
+-------------------
+
+* Verify links
+* Scroll option
+* Screenshot
+* RightClick
+* PopupHandling
+* ParentChild reletionship
+* Multi window handling
+* Login page Testing
+* Language setup
+* Grid Example
+* Hammer Example
+
+
+Theory topics
+---------------------
+
+Please find the questions and answers in attached word document.
