@@ -1,0 +1,9 @@
+* page object model
+* Page factory
+* framework creation
+* Creating Jar file and using that JAR file in   selenium project file.
+
+ * i have craeted  a frame work for home depot application and exported that as a jar file.
+* Then i created another porject and in that project i added home depot framework jar file as a library file( project right click -->bulid path-->add external library).
+
+* Then i imported the packeges and created objects for the classes and called required methods.
