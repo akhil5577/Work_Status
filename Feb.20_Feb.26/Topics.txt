@@ -1,0 +1,27 @@
+
+Coding topics
+------------------
+* Ajax Calls
+* Assert And Verify
+* Check Box
+* Crome Launch
+* Desired Capabilities Example
+* Drag And Drop
+* Driver Quit 
+* Driver close
+* Drop Down Commands
+* JavaScript example
+
+
+Theory topics
+---------------------
+
+* what are limitations in selenium webdriver
+* installing/configure selenium
+* what are different ways of locating elements in   selenium
+* which is fastest way to identify elements in web   page?
+* what is absolute path and relative path in xpath
+
+* different types of waits or synchronization in   selenium webdriver
+
+* Please find the questions and answers in attached    word document.
