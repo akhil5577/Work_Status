@@ -12,6 +12,7 @@
    * controllers testing
    * Services testing
    * http 
+   *unit testing with angular and javascript
 
 
 
