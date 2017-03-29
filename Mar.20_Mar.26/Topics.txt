@@ -1,0 +1,17 @@
+* Protractor/jasmine:
+   * setup
+   * End to end testing
+   * Before /after 
+   * css expression
+   * expects
+   * locators
+   * page object pattern
+* Karma/jasmine
+   * setup
+   * filter testing
+   * controllers testing
+   * Services testing
+   * http 
+
+
+
