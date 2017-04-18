@@ -1,0 +1,20 @@
+* what is web service 
+* Soap (https://www.youtube.com/watch?v=mKjvKPlb1rA&list=PLqq-6Pq4lTTZTYpk_1DOowOGWJMIH5T39)
+* RestFul(https://www.youtube.com/watch?v=xkKcdK1u95s&list=PLqq-6Pq4lTTZh5U8RbdXq0WaYvZBz2rbn)
+*WSDL
+*JSON
+*XML
+* Request
+* Response
+* Advantages and dis advantages
+* SOAP VS Restful
+*Code management using GIT
+   * Clone 
+   * Push
+   * Pull
+   *Commit
+   * Track or stage
+   * Create local repositery
+   * Create remote repositery
+   
+*
