@@ -1,0 +1,17 @@
+* Groovy script programing
+   * Strings
+   * loops
+   * functions
+   * Conditional execution of step
+* Object oriented concepts
+  * inheritence
+  * abstraction
+  * polymerphism
+  * encapsulation
+* Service mocking
+* Debugging
+*Setup script
+* Composite project 
+* Reusable script library
+* Exception handling
+* End to end testing
