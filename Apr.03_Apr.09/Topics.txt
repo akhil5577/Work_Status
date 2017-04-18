@@ -1,0 +1,14 @@
+* what is webservice testing
+* SOAPUI
+* SOAPUI Pro
+*Important features of soapui  
+* soapui hierachy
+* Working with soap ui projects
+* first test case 
+* add and use properties
+* adding Manual test steps
+* Xpath assertion
+* xQuery assertion
+* Assert data from database
+* Rest API Methods
+* Rest API Testing
